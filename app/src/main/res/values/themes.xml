@@ -1,0 +1,53 @@
+<resources>
+    <style name="Theme.GMIProspect" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/gmi_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/gmi_blue_light</item>
+        <item name="colorOnPrimaryContainer">@color/gmi_blue_dark</item>
+        <item name="colorSecondary">@color/gmi_amber</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+        <item name="colorSecondaryContainer">@color/gmi_amber_light</item>
+        <item name="colorError">@color/gmi_red</item>
+        <item name="android:colorBackground">@color/bg_screen</item>
+        <item name="android:statusBarColor">@color/gmi_blue_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.GMIProspect.Splash">
+        <item name="android:windowBackground">@drawable/bg_splash</item>
+        <item name="android:statusBarColor">@color/gmi_blue_dark</item>
+        <item name="android:navigationBarColor">@color/gmi_blue</item>
+    </style>
+
+    <style name="Toolbar.GMI" parent="Widget.Material3.Toolbar">
+        <item name="android:background">@color/gmi_blue</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="navigationIconTint">@color/white</item>
+    </style>
+
+    <style name="Text.SectionTitle" parent="TextAppearance.Material3.TitleMedium">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text.Body" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+    </style>
+
+    <style name="Card.GMI" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">@dimen/card_radius</item>
+        <item name="cardElevation">@dimen/card_elevation</item>
+        <item name="cardBackgroundColor">@color/white</item>
+    </style>
+
+    <style name="Badge.GMI" parent="">
+        <item name="android:background">@drawable/bg_badge</item>
+        <item name="android:paddingStart">10dp</item>
+        <item name="android:paddingEnd">10dp</item>
+        <item name="android:paddingTop">3dp</item>
+        <item name="android:paddingBottom">3dp</item>
+        <item name="android:textSize">@dimen/text_caption</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

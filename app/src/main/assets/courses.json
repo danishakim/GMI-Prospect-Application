@@ -1,0 +1,137 @@
+[
+  {
+    "id": "dip_mechatronics", "category": "DIPLOMA", "rule": "DIP_ENG",
+    "name": "Diploma in Engineering Technology (Mechatronics)",
+    "department": "Department of Electrical Engineering",
+    "duration": "3 years (6 semesters incl. industrial training)", "intake": "January / July", "mode": "Full-time",
+    "overview": "Combines mechanical, electrical, electronic and control engineering to design and maintain automated machines and robotic systems used in modern manufacturing. Training follows the German dual-system approach with 70% hands-on workshop practice.",
+    "requirements": ["SPM/SVM: minimum 3 credits including Mathematics and 1 Science/Technical subject, and a pass in English", "O-Level/IGCSE: minimum grade C in 3 subjects including Mathematics and 1 Science/Technical subject, and a pass in English", "OR SKM Level 3 (related field) with at least 1 credit in SPM"],
+    "careers": ["Mechatronics Technician", "Automation Engineer Assistant", "Robotics Technician", "Maintenance Supervisor"]
+  },
+  {
+    "id": "dip_electronics", "category": "DIPLOMA", "rule": "DIP_ENG",
+    "name": "Diploma in Engineering Technology (Electronics - Computer)",
+    "department": "Department of Electrical Engineering",
+    "duration": "3 years (6 semesters incl. industrial training)", "intake": "January / July", "mode": "Full-time",
+    "overview": "Covers digital and analogue electronics, microcontrollers, embedded systems, computer hardware and networking, preparing students for the electrical and electronics (E&E) industry.",
+    "requirements": ["SPM/SVM: minimum 3 credits including Mathematics and 1 Science/Technical subject, and a pass in English", "O-Level/IGCSE: minimum grade C in 3 subjects including Mathematics and 1 Science/Technical subject, and a pass in English", "OR SKM Level 3 (related field) with at least 1 credit in SPM"],
+    "careers": ["Electronics Technician", "Embedded Systems Technician", "Test Engineer Assistant", "IT Support Engineer"]
+  },
+  {
+    "id": "dip_instrumentation", "category": "DIPLOMA", "rule": "DIP_ENG",
+    "name": "Diploma in Engineering Technology (Process Instrumentation & Control)",
+    "department": "Department of Electrical Engineering",
+    "duration": "3 years (6 semesters incl. industrial training)", "intake": "January / July", "mode": "Full-time",
+    "overview": "Focuses on measurement, sensors, PLC, SCADA and process control systems used in oil and gas, petrochemical, food and pharmaceutical plants.",
+    "requirements": ["SPM/SVM: minimum 3 credits including Mathematics and 1 Science/Technical subject, and a pass in English", "O-Level/IGCSE: minimum grade C in 3 subjects including Mathematics and 1 Science/Technical subject, and a pass in English", "OR SKM Level 3 (related field) with at least 1 credit in SPM"],
+    "careers": ["Instrument Technician", "Process Control Technician", "PLC Programmer", "Plant Operator"]
+  },
+  {
+    "id": "dip_energy", "category": "DIPLOMA", "rule": "DIP_ENG",
+    "name": "Diploma in Engineering Technology (Sustainable Energy & Power Distribution)",
+    "department": "Department of Electrical Engineering",
+    "duration": "3 years (6 semesters incl. industrial training)", "intake": "January / July", "mode": "Full-time",
+    "overview": "Prepares students for power generation, electrical distribution and renewable energy systems such as solar PV, with a strong focus on energy efficiency and safety.",
+    "requirements": ["SPM/SVM: minimum 3 credits including Mathematics and 1 Science/Technical subject, and a pass in English", "O-Level/IGCSE: minimum grade C in 3 subjects including Mathematics and 1 Science/Technical subject, and a pass in English", "OR SKM Level 3 (related field) with at least 1 credit in SPM"],
+    "careers": ["Electrical Technician", "Solar PV Technician", "Power Distribution Technician", "Energy Auditor Assistant"]
+  },
+  {
+    "id": "dip_autotronics", "category": "DIPLOMA", "rule": "DIP_ENG",
+    "name": "Diploma in Engineering Technology (Autotronics & Hybrid System)",
+    "department": "Department of Electrical Engineering",
+    "duration": "3 years (6 semesters incl. industrial training)", "intake": "January / July", "mode": "Full-time",
+    "overview": "Specialises in automotive electronics, engine management, vehicle diagnostics and hybrid/electric vehicle technology.",
+    "requirements": ["SPM/SVM: minimum 3 credits including Mathematics and 1 Science/Technical subject, and a pass in English", "O-Level/IGCSE: minimum grade C in 3 subjects including Mathematics and 1 Science/Technical subject, and a pass in English", "OR SKM Level 3 (related field) with at least 1 credit in SPM"],
+    "careers": ["Automotive Diagnostic Technician", "EV/Hybrid Technician", "Service Advisor", "Automotive Electronics Technician"]
+  },
+  {
+    "id": "dip_netsec", "category": "DIPLOMA", "rule": "DIP_ENG",
+    "name": "Diploma in Network Security",
+    "department": "Department of Computer & Information",
+    "duration": "3 years (6 semesters incl. industrial training)", "intake": "January / July", "mode": "Full-time",
+    "overview": "Covers computer networking, system administration, ethical hacking, digital forensics and securing enterprise infrastructure.",
+    "requirements": ["SPM/SVM: minimum 3 credits including Mathematics and 1 Science/Technical subject, and a pass in English", "O-Level/IGCSE: minimum grade C in 3 subjects including Mathematics and 1 Science/Technical subject, and a pass in English", "OR SKM Level 3 (related field) with at least 1 credit in SPM"],
+    "careers": ["Network Administrator", "Security Analyst (Junior)", "SOC Technician", "System Administrator"]
+  },
+  {
+    "id": "dip_software", "category": "DIPLOMA", "rule": "DIP_COMP",
+    "name": "Diploma in Software Engineering",
+    "department": "Department of Computer & Information",
+    "duration": "3 years (6 semesters incl. industrial training)", "intake": "January / July", "mode": "Full-time",
+    "overview": "Teaches programming, mobile and web application development, databases, software testing and project management using industry tools.",
+    "requirements": ["SPM/SVM: minimum 3 credits including Mathematics, and a pass in English", "O-Level/IGCSE: minimum grade C in 3 subjects including Mathematics, and a pass in English", "OR SKM Level 3 (related field) with at least 1 credit in SPM"],
+    "careers": ["Software Developer", "Mobile App Developer", "Software Tester", "Web Developer"]
+  },
+  {
+    "id": "dip_multimedia", "category": "DIPLOMA", "rule": "DIP_CREATIVE",
+    "name": "Diploma in Creative Multimedia",
+    "department": "Department of Computer & Information",
+    "duration": "3 years (6 semesters incl. industrial training)", "intake": "January / July", "mode": "Full-time",
+    "overview": "Develops skills in graphic design, 2D/3D animation, video production, UI/UX and interactive media.",
+    "requirements": ["SPM/SVM: minimum 3 credits in any subjects, and a pass in English", "O-Level/IGCSE: minimum grade C in any 3 subjects, and a pass in English", "OR SKM Level 3 (related field) with at least 1 credit in SPM"],
+    "careers": ["Graphic Designer", "Animator", "Video Editor", "UI/UX Designer"]
+  },
+  {
+    "id": "dip_manufacturing", "category": "DIPLOMA", "rule": "DIP_ENG",
+    "name": "Diploma in Engineering Technology (Manufacturing System)",
+    "department": "Department of Mechanical Engineering",
+    "duration": "3 years (6 semesters incl. industrial training)", "intake": "January / July", "mode": "Full-time",
+    "overview": "Covers production planning, lean manufacturing, quality control, CAD/CAM and industrial automation in modern factories.",
+    "requirements": ["SPM/SVM: minimum 3 credits including Mathematics and 1 Science/Technical subject, and a pass in English", "O-Level/IGCSE: minimum grade C in 3 subjects including Mathematics and 1 Science/Technical subject, and a pass in English", "OR SKM Level 3 (related field) with at least 1 credit in SPM"],
+    "careers": ["Production Technician", "Quality Control Technician", "Manufacturing Planner", "Process Technician"]
+  },
+  {
+    "id": "dip_cnc", "category": "DIPLOMA", "rule": "DIP_ENG",
+    "name": "Diploma in Engineering Technology (CNC Precision Technology)",
+    "department": "Department of Mechanical Engineering",
+    "duration": "3 years (6 semesters incl. industrial training)", "intake": "January / July", "mode": "Full-time",
+    "overview": "Hands-on training in CNC milling and turning, CAD/CAM programming, precision measurement and machining of high-accuracy components.",
+    "requirements": ["SPM/SVM: minimum 3 credits including Mathematics and 1 Science/Technical subject, and a pass in English", "O-Level/IGCSE: minimum grade C in 3 subjects including Mathematics and 1 Science/Technical subject, and a pass in English", "OR SKM Level 3 (related field) with at least 1 credit in SPM"],
+    "careers": ["CNC Programmer", "CNC Machinist", "CAM Technician", "Metrology Technician"]
+  },
+  {
+    "id": "dip_toolanddie", "category": "DIPLOMA", "rule": "DIP_ENG",
+    "name": "Diploma in Engineering Technology (Tool & Die)",
+    "department": "Department of Mechanical Engineering",
+    "duration": "3 years (6 semesters incl. industrial training)", "intake": "January / July", "mode": "Full-time",
+    "overview": "Focuses on the design and fabrication of press tools, dies and jigs & fixtures for mass production in the automotive and electronics industries.",
+    "requirements": ["SPM/SVM: minimum 3 credits including Mathematics and 1 Science/Technical subject, and a pass in English", "O-Level/IGCSE: minimum grade C in 3 subjects including Mathematics and 1 Science/Technical subject, and a pass in English", "OR SKM Level 3 (related field) with at least 1 credit in SPM"],
+    "careers": ["Tool & Die Maker", "Tool Designer", "Production Engineer Assistant", "Mould Technician"]
+  },
+  {
+    "id": "dip_machinetools", "category": "DIPLOMA", "rule": "DIP_ENG",
+    "name": "Diploma in Engineering Technology (Machine Tools Maintenance)",
+    "department": "Department of Mechanical Engineering",
+    "duration": "3 years (6 semesters incl. industrial training)", "intake": "January / July", "mode": "Full-time",
+    "overview": "Trains students to install, troubleshoot and maintain industrial machine tools, hydraulics, pneumatics and their control systems.",
+    "requirements": ["SPM/SVM: minimum 3 credits including Mathematics and 1 Science/Technical subject, and a pass in English", "O-Level/IGCSE: minimum grade C in 3 subjects including Mathematics and 1 Science/Technical subject, and a pass in English", "OR SKM Level 3 (related field) with at least 1 credit in SPM"],
+    "careers": ["Maintenance Technician", "Machine Service Engineer Assistant", "Hydraulics & Pneumatics Technician", "Facility Technician"]
+  },
+  {
+    "id": "dip_productdesign", "category": "DIPLOMA", "rule": "DIP_ENG",
+    "name": "Diploma in Innovative Product Design Engineering Technology",
+    "department": "Department of Mechanical Engineering",
+    "duration": "3 years (6 semesters incl. industrial training)", "intake": "January / July", "mode": "Full-time",
+    "overview": "Combines industrial design, 3D modelling, rapid prototyping and engineering principles to turn ideas into manufacturable products.",
+    "requirements": ["SPM/SVM: minimum 3 credits including Mathematics and 1 Science/Technical/Vocational subject, and a pass in English", "O-Level/IGCSE: minimum grade C in 3 subjects including Mathematics and 1 Science/Technical subject, and a pass in English", "OR SKM Level 3 (related field) with at least 1 credit in SPM"],
+    "careers": ["Product Designer", "CAD Designer", "Prototyping Technician", "Industrial Designer"]
+  },
+  {
+    "id": "gapp", "category": "GAPP", "rule": "GAPP",
+    "name": "German A-Level Preparatory Programme (GAPP)",
+    "department": "Pre-University Programme",
+    "duration": "20 months at GMI + 6 months intensive German in Germany", "intake": "July", "mode": "Full-time",
+    "overview": "A pre-university pathway that prepares students to study engineering at Universities of Applied Sciences in Germany. Students sit the German A-Level, TestDaF (German language) and complete a Vorpraktikum (pre-study practical training).",
+    "requirements": ["SPM: minimum grade C in English, Mathematics, Additional Mathematics, Physics and Chemistry", "O-Level/IGCSE: minimum grade C in English, Mathematics, Additional Mathematics, Physics and Chemistry", "Sponsored candidates: grade A in the core subjects (subject to sponsor selection)"],
+    "careers": ["Bachelor of Engineering in Germany (Mechanical, Electrical, Mechatronics, etc.)", "Engineer in German or multinational companies"]
+  },
+  {
+    "id": "gufp", "category": "GUFP", "rule": "GUFP",
+    "name": "GMI-UTP Foundation Programme (GUFP)",
+    "department": "Pre-University Programme (in collaboration with Universiti Teknologi PETRONAS)",
+    "duration": "1 year (3 semesters)", "intake": "May / September", "mode": "Full-time",
+    "overview": "A one-year foundation in engineering and science based on the UTP foundation syllabus. Successful students progress to UTP undergraduate engineering degree programmes.",
+    "requirements": ["SPM: minimum grade C in Bahasa Melayu, English, Mathematics, Additional Mathematics, Physics and Chemistry", "O-Level/IGCSE: minimum grade C in 5 subjects including Mathematics, Physics and Chemistry"],
+    "careers": ["Degree in Engineering at Universiti Teknologi PETRONAS", "Engineer (Chemical, Mechanical, Electrical, Petroleum, Civil)"]
+  }
+]

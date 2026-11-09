@@ -1,0 +1,10 @@
+<resources>
+    <!-- Android 12+ system splash: match our branded splash so there is no white flash -->
+    <style name="Theme.GMIProspect.Splash">
+        <item name="android:windowBackground">@drawable/bg_splash</item>
+        <item name="android:statusBarColor">@color/gmi_blue_dark</item>
+        <item name="android:navigationBarColor">@color/gmi_blue</item>
+        <item name="android:windowSplashScreenBackground">@color/gmi_blue</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+    </style>
+</resources>

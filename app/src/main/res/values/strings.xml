@@ -1,0 +1,188 @@
+<resources>
+    <string name="app_name">GMI Prospect</string>
+    <string name="app_tagline">Your gateway to German-standard technical education</string>
+    <string name="gmi_full_name">German-Malaysian Institute</string>
+    <string name="loading">Loading…</string>
+
+    <!-- Home -->
+    <string name="home_greeting">Welcome to GMI</string>
+    <string name="home_subtitle">Find the right programme, check your eligibility and apply online in minutes.</string>
+    <string name="home_explore">Explore</string>
+    <string name="home_programmes">Programmes by category</string>
+    <string name="menu_courses">Courses</string>
+    <string name="menu_courses_desc">Diploma, GAPP &amp; GUFP</string>
+    <string name="menu_eligibility">Eligibility</string>
+    <string name="menu_eligibility_desc">Check with your results</string>
+    <string name="menu_contact">Contact Us</string>
+    <string name="menu_contact_desc">Call, email or visit</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_about_desc">Get to know GMI</string>
+    <string name="apply_banner_title">Ready to join GMI?</string>
+    <string name="apply_banner_desc">Submit your online application today.</string>
+    <string name="apply_online">Apply Online</string>
+    <string name="programme_count">%1$d programme(s)</string>
+
+    <!-- Categories -->
+    <string name="cat_all">All</string>
+    <string name="cat_diploma">Diploma</string>
+    <string name="cat_gapp">GAPP</string>
+    <string name="cat_gufp">GUFP</string>
+    <string name="cat_diploma_full">Diploma Programmes</string>
+    <string name="cat_gapp_full">German A-Level Preparatory</string>
+    <string name="cat_gufp_full">GMI-UTP Foundation</string>
+
+    <!-- Course list / detail -->
+    <string name="title_courses">Courses Offered</string>
+    <string name="search_hint">Search programmes…</string>
+    <string name="search">Search</string>
+    <string name="no_courses_found">No programme matches your search.</string>
+    <string name="title_course_detail">Programme Details</string>
+    <string name="label_department">Department</string>
+    <string name="label_duration">Duration</string>
+    <string name="label_intake">Intake</string>
+    <string name="label_mode">Study mode</string>
+    <string name="label_overview">Programme Overview</string>
+    <string name="label_requirements">Entry Requirements</string>
+    <string name="label_careers">Career Prospects</string>
+    <string name="check_eligibility">Check My Eligibility</string>
+    <string name="share">Share</string>
+    <string name="share_course_text">%1$s at German-Malaysian Institute (GMI).\nDuration: %2$s\nApply online: %3$s</string>
+    <string name="share_via">Share programme via</string>
+    <string name="bullet_item">• %1$s</string>
+    <string name="cd_course_icon">Programme category icon</string>
+
+    <!-- Eligibility -->
+    <string name="title_eligibility">Eligibility Checker</string>
+    <string name="elig_intro">Enter your examination results. We will match them with GMI entry requirements and show the programmes you qualify for.</string>
+    <string name="elig_step1">1. Your details</string>
+    <string name="elig_step2">2. Your results</string>
+    <string name="hint_name">Your name (optional)</string>
+    <string name="label_qualification">Qualification</string>
+    <string name="qual_spm">SPM / SVM</string>
+    <string name="qual_igcse">O-Level / IGCSE</string>
+    <string name="skm_switch">I also hold SKM Level 3 (Malaysian Skills Certificate)</string>
+    <string name="elig_hint_grades">Select \"Not taken\" for subjects you did not sit for.</string>
+    <string name="group_core">Core subjects</string>
+    <string name="group_science">Science / Technical subjects</string>
+    <string name="group_other">Other subjects</string>
+    <string name="subj_bm">Bahasa Melayu</string>
+    <string name="subj_english">English</string>
+    <string name="subj_math">Mathematics</string>
+    <string name="subj_addmath">Additional Mathematics</string>
+    <string name="subj_physics">Physics</string>
+    <string name="subj_chemistry">Chemistry</string>
+    <string name="subj_biology">Biology</string>
+    <string name="subj_science">Science</string>
+    <string name="subj_technical">Technical / Vocational subject</string>
+    <string name="subj_other1">Other subject 1 (e.g. Sejarah)</string>
+    <string name="subj_other2">Other subject 2 (e.g. Pendidikan Islam/Moral)</string>
+    <string name="subj_other3">Other subject 3</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_check">Check Eligibility</string>
+    <string name="error_no_grades">Please enter at least your English and Mathematics results.</string>
+    <string name="reset_done">All results cleared.</string>
+
+    <!-- Result -->
+    <string name="title_result">Your Result</string>
+    <string name="result_congrats">Congratulations, %1$s!</string>
+    <string name="result_congrats_anon">Congratulations!</string>
+    <string name="result_eligible_count">You are eligible for %1$d of %2$d GMI programmes.</string>
+    <string name="result_none_title">Sorry, %1$s</string>
+    <string name="result_none_title_anon">Sorry</string>
+    <string name="result_none_desc">Your results do not meet the minimum entry requirements yet. Contact GMI for alternative pathways (e.g. SKM or APEL).</string>
+    <string name="result_summary">%1$s · %2$d credit(s) · %3$d pass(es)</string>
+    <string name="result_skm_suffix"> · SKM Level 3</string>
+    <string name="show_not_eligible">Show programmes I am not eligible for</string>
+    <string name="status_eligible">Eligible</string>
+    <string name="status_not_eligible">Not eligible</string>
+    <string name="eligible_via_skm">Eligible through the SKM Level 3 route.</string>
+    <string name="eligible_academic">You meet the academic entry requirements.</string>
+    <string name="missing_prefix">Missing: %1$s</string>
+    <string name="gapp_sponsor_note">Excellent grades! You may also qualify for GAPP sponsorship.</string>
+    <string name="btn_apply_now">Apply Now</string>
+    <string name="btn_details">Details</string>
+    <string name="btn_check_again">Check Again</string>
+    <string name="btn_contact_gmi">Contact GMI</string>
+
+    <!-- Unmet requirement reasons -->
+    <string name="req_min3_credits">at least 3 credits</string>
+    <string name="req_min5_credits">at least 5 credits</string>
+    <string name="req_credit_math">credit in Mathematics</string>
+    <string name="req_credit_addmath">credit in Additional Mathematics</string>
+    <string name="req_credit_physics">credit in Physics</string>
+    <string name="req_credit_chemistry">credit in Chemistry</string>
+    <string name="req_credit_english">credit in English</string>
+    <string name="req_credit_bm">credit in Bahasa Melayu</string>
+    <string name="req_credit_scitech">credit in 1 Science/Technical subject</string>
+    <string name="req_pass_english">pass in English</string>
+    <string name="list_separator">, </string>
+
+    <!-- Contact -->
+    <string name="title_contact">Contact Us</string>
+    <string name="contact_intro">We are happy to help with your enquiries about programmes, admission and campus life.</string>
+    <string name="contact_campus">Main Campus</string>
+    <string name="gmi_address">Jalan Ilmiah, Taman Universiti, 43000 Kajang, Selangor Darul Ehsan, Malaysia.</string>
+    <string name="label_phone">Telephone</string>
+    <string name="label_fax">Fax</string>
+    <string name="label_email">Email</string>
+    <string name="label_website">Website</string>
+    <string name="label_hours">Office hours</string>
+    <string name="gmi_phone">+603-8921 9000</string>
+    <string name="gmi_phone_uri">tel:+60389219000</string>
+    <string name="gmi_fax">+603-8921 9001</string>
+    <string name="gmi_email">marketing@gmi.edu.my</string>
+    <string name="gmi_website">www.gmi.edu.my</string>
+    <string name="gmi_website_url">https://www.gmi.edu.my</string>
+    <string name="gmi_hours">Mon – Fri, 8:00 am – 5:00 pm</string>
+    <string name="gmi_map_query">German-Malaysian Institute, Jalan Ilmiah, Taman Universiti, Kajang</string>
+    <string name="gmi_map_embed_url">https://maps.google.com/maps?q=German-Malaysian%20Institute%20Kajang&amp;z=15&amp;output=embed</string>
+    <string name="label_location">Our Location</string>
+    <string name="open_in_maps">Open in Google Maps</string>
+    <string name="fax_copied">Fax number copied to clipboard</string>
+    <string name="action_call">Call</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_email">Email</string>
+    <string name="action_visit">Visit</string>
+    <string name="enquiry_title">Enquiry Form</string>
+    <string name="enquiry_desc">Send us your question and our admission team will reply by email.</string>
+    <string name="hint_full_name">Full name</string>
+    <string name="hint_email">Email address</string>
+    <string name="hint_phone">Phone number</string>
+    <string name="hint_programme">Programme of interest</string>
+    <string name="hint_message">Your message</string>
+    <string name="btn_send_enquiry">Send Enquiry</string>
+    <string name="error_required">This field is required</string>
+    <string name="error_email">Please enter a valid email address</string>
+    <string name="error_phone">Please enter a valid phone number</string>
+    <string name="enquiry_subject">[GMI Prospect App] Enquiry: %1$s</string>
+    <string name="enquiry_body">Name: %1$s\nEmail: %2$s\nPhone: %3$s\nProgramme: %4$s\n\nMessage:\n%5$s</string>
+    <string name="enquiry_general">General enquiry</string>
+    <string name="enquiry_sent">Opening your email app…</string>
+    <string name="no_app_found">No app found to complete this action.</string>
+    <string name="cd_map">Map showing GMI campus location</string>
+
+    <!-- About -->
+    <string name="title_about">About Us</string>
+    <string name="about_heading">German-Malaysian Institute</string>
+    <string name="about_body">The German-Malaysian Institute (GMI) is a leading technical and vocational education and training (TVET) institution in Kajang, Selangor. It was established in 1991 as a joint project between the Governments of Malaysia and the Federal Republic of Germany, and is owned by Majlis Amanah Rakyat (MARA) and Yayasan Pelajaran MARA (YPM).\n\nGMI delivers German-standard, industry-driven education with a strong emphasis on practical training, giving graduates high employability in the manufacturing, engineering and technology sectors.</string>
+    <string name="about_vision_title">Vision</string>
+    <string name="about_vision">To be a premier institution in technical education and training with a German approach.</string>
+    <string name="about_mission_title">Mission</string>
+    <string name="about_mission">To produce competent, innovative and industry-ready graduates through German-based technical education, applied research and strong industry partnerships.</string>
+    <string name="about_why_title">Why choose GMI?</string>
+    <string name="about_why_1" formatted="false">German dual-system approach: about 70% practical, 30% theory</string>    <string name="about_why_2">Strong industry links with German and multinational companies</string>
+    <string name="about_why_3">Pathways to degrees in Germany (GAPP) and UTP (GUFP)</string>
+    <string name="about_why_4">High graduate employability</string>
+    <string name="stat_year">1991</string>
+    <string name="stat_year_label">Established</string>
+    <string name="stat_programmes">15</string>
+    <string name="stat_programmes_label">Programmes</string>
+    <string name="stat_practical" formatted="false">70%</string>
+    <string name="stat_practical_label">Hands-on</string>
+    <string name="app_version">App version %1$s</string>
+    <string name="visit_website">Visit GMI Website</string>
+
+    <!-- Links -->
+    <string name="oa_url">https://gmi.vialing.com/oa/login</string>
+    <string name="cd_logo">GMI Prospect logo</string>
+</resources>

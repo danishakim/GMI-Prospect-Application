@@ -1,0 +1,19 @@
+<resources>
+    <color name="gmi_blue">#0B3D91</color>
+    <color name="gmi_blue_dark">#062A66</color>
+    <color name="gmi_blue_light">#E3ECFA</color>
+    <color name="gmi_amber">#FFB300</color>
+    <color name="gmi_amber_light">#FFF3D6</color>
+    <color name="gmi_red">#C62828</color>
+    <color name="gmi_red_light">#FDE7E7</color>
+    <color name="gmi_green">#2E7D32</color>
+    <color name="gmi_green_light">#E6F4E7</color>
+    <color name="gmi_purple">#6A1B9A</color>
+    <color name="gmi_purple_light">#F1E4F7</color>
+    <color name="bg_screen">#F5F7FB</color>
+    <color name="text_primary">#1B1F2A</color>
+    <color name="text_secondary">#5B6475</color>
+    <color name="divider">#E1E5EE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ic_launcher_background">#0B3D91</color>
+</resources>

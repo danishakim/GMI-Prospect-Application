@@ -1,0 +1,28 @@
+<resources>
+    <!-- Index 0 must always be "Not taken" -->
+    <string-array name="grades_spm">
+        <item>Not taken</item>
+        <item>A+</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>G</item>
+    </string-array>
+    <string-array name="grades_igcse">
+        <item>Not taken</item>
+        <item>A*</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>U</item>
+    </string-array>
+</resources>
